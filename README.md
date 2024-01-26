@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Cleam-Copy
 ### Separa em uma pasta arquivo duplicados
 
